@@ -19,8 +19,17 @@ Thanks.
 
 
 
-play image
+[play image]
 
 ![screen shot](https://github.com/baekingwon/gittest/blob/master/work/dodge/playimg.jpg?raw=true)
+
+
+[keycontorl]
+UP : W
+Down : S
+left : A
+right : D
+bullet : ,
+boom : .
 
 
